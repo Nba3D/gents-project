@@ -1,0 +1,4 @@
+function calculate () {
+            calculated = eval(document.getElementById("display").value)
+            document.getElementById("display").value = calculated
+        }
